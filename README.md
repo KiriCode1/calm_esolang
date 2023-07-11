@@ -20,4 +20,4 @@ make calm
 
 And then run it as:
 
-./calm <file>.calm
+./calm (file).calm
